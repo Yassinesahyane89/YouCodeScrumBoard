@@ -1,0 +1,28 @@
+.pace {
+  display: none;
+}
+
+.main-style {
+  min-height: 100vh;
+  background: url(../img/cover/cover-scrum-board.png) no-repeat fixed;
+  background-size: 360px;
+  background-position: right bottom;
+}
+
+.btn-sm {
+  padding: 1.5px 6px;
+  font-size: 11px;
+}
+
+.title1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.faile {
+  font-size: 20px;
+  font-weight: 600;
+}
